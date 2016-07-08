@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Giroskop</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compass">CompassActivity</string>
+    <string name="title_activity_giroskop">GiroskopActivity</string>
+    <string name="title_activity_accelerometr">AccelerometrActivity</string>
+    <string name="title_activity_image_pick">ImagePickActivity</string>
+    <string name="title_activity_make_photoctivity">MakePhotoActivity</string>
+    <string name="title_activity_make_photo">MakePhotoActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9160472105004969/6556499538</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-9610922161998342/1677787118</string>
+</resources>
